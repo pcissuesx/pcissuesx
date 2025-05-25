@@ -53,3 +53,15 @@
   <script src="script.js" defer></script>
 </body>
 </html>
+<nav id="nav-links">
+  <a href="sorunlar/yavas.html">Yavaşlama</a>
+  <a href="sorunlar/internet.html">İnternet</a>
+  <a href="sorunlar/donma.html">Donma</a>
+  <a href="sorunlar/disk.html">Disk Sorunları</a>
+  <a href="sorunlar/power.html">Güç Sorunları</a>
+  <a href="sorunlar/printer.html">Yazıcı Sorunları</a>
+  <a href="sorunlar/battery.html">Pil Sorunları</a>
+  <a href="sorunlar/vpn.html">VPN Sorunları</a>
+  <a href="error-codes.html">Windows Hata Kodları</a>
+</nav>
+
